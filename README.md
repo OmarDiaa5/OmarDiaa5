@@ -2,7 +2,7 @@
 
 ### 🚀 Machine Learning & Computer Vision Engineer | AI Practitioner | Leader
 
-I am a passionate **Machine Learning & Computer Vision Engineer** studying at the **Faculty of Computers and Information, Benha National University (BNU)**. My work spans deep spatial-temporal perception (such as drone-based tracking and real-time driver behavior monitoring), natural language processing (explainable transformers and RAG architectures), and predictive modeling.
+I am a passionate **Machine Learning & Computer Vision Engineer** studying at the **Faculty of Computer Science and Artificial intelligence , Benha National University (BNU)**. My work spans deep spatial-temporal perception (such as drone-based tracking and real-time driver behavior monitoring), natural language processing (explainable transformers and RAG architectures), and predictive modeling.
 
 Alongside engineering, I serve as the **Vice President of the BNU Computer Science Student Union**, leading a community of over 1,000 students across 7 committees, and work as the **Media Lead & Innovation Ambassador** for BNU's Innovation & Entrepreneurship Sector.
 
