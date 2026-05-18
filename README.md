@@ -1,10 +1,14 @@
 # Hi, I'm Omar Diaa-Eldeen Fawzy! 👋
 
-### 🚀 Machine Learning & Computer Vision Engineer | AI Practitioner | Leader
+###  Machine Learning & Computer Vision Eng | Vice President, CS Student Union
 
-I am a passionate **Machine Learning & Computer Vision Engineer** studying at the **Faculty of Computer Science and Artificial intelligence , Benha National University (BNU)**. My work spans deep spatial-temporal perception (such as drone-based tracking and real-time driver behavior monitoring), natural language processing (explainable transformers and RAG architectures), and predictive modeling.
+I am an ML & Computer Vision undergraduate at **Benha National University (BNU)**. I write optimized Python/C++ to build efficient object tracking models, real-time edge CV pipelines, and explainable NLP/RAG applications.
 
-Alongside engineering, I serve as the **Vice President of the BNU Computer Science Student Union**, leading a community of over 1,000 students across 7 committees, and work as the **Media Lead & Innovation Ambassador** for BNU's Innovation & Entrepreneurship Sector.
+* **Tech Focus:** Vision Transformers (ViT), Aerial Object Tracking (SOT), Embedded AI, NLP & RAG.
+* **Leadership:** Vice President of the BNU Computer Science Student Union, representing 1,000+ students across 7 committees.
+* **Baseline Stats:** Custom ViT tracker running at ~15ms (12.5 GFLOPs) | Real-time driver monitoring at 98.9% mAP50 (~5.6ms latency).
+
+---
 
 ---
 
